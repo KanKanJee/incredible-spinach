@@ -3,8 +3,8 @@ template: post
 title: This is a new blog post
 subtitle: Just testing  Stackbit and the new JAMstack environment
 date: 2019-08-06T21:00:00Z
-thumb_img_path: "/images/thanoswall-1.png"
-content_img_path: "/images/thanoswall-1-1.png"
+thumb_img_path: "/images/thanoswall-1-2.png"
+content_img_path: "/images/InfinityWar5ac2dbd1f2479.jpg"
 excerpt: Things can go south quite quickly. Preparing for the hard moment of life
   is what seperates winners from losers.
 
